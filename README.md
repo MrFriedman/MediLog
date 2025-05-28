@@ -1,3 +1,5 @@
+# NOTE: Not done the README so dont follow this (for now)
+
 ## Backend Setup
 
 The backend is built using Flask and several Python libraries for speech processing.
