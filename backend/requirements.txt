@@ -1,0 +1,10 @@
+flask
+flask-sqlalchemy
+flask-bcrypt
+python-dotenv
+flask-session
+redis
+flask-cors
+transformers 
+datasets 
+torch
