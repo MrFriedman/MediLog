@@ -16,9 +16,9 @@ The backend is built using Flask and several Python libraries for speech process
 1. Navigate to backend directory
 
    ```bash
-   git clone https://gitlab.cs.uct.ac.za/capstone-project-2024/automatic-reading-tutor.git
+   git clone https://
 
-   cd automatic-reading-tutor/backend
+   cd blahblah
    ```
 
 2. Set up a virtual environment:
